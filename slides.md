@@ -88,24 +88,115 @@ image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Andrew_Ng_at_Te
 - [Andrew Ng 的 Twitter](https://twitter.com/AndrewYNg)  
 - [吴恩达 - Wikipedia](https://zh.wikipedia.org/wiki/%E5%90%B4%E6%81%A9%E8%BE%BE)
 
+---
+layout: default
+---
+
+# 平台比较分析
+coursera与中国远程教学平台的异同
+
+| 维度 | Coursera | XuetangX（学堂在线） | 中国大学 MOOC |
+|------|-----------|------------------------|-----------------|
+| 创立背景 | 斯坦福大学（国际） | 清华大学 | 网易+高教社 |
+| 课程资源 | 全球顶尖高校/企业 | 国内高校 | 国内高校 |
+| 语言 | 多语言，全球化 | 中文 | 中文 |
+| 国际合作 | ✅ 强 | 较弱 | 较弱 |
+
+<br/>
+
+> 📝 Coursera 更具国际化与技术优势，而国内平台强调本地化与学分衔接。
 
 ---
+
+## 📌 教育不平等的现实
+
+
+<br/>
+
+- 全球优质高等教育资源集中在少数国家和地区  
+- 偏远地区和中小城市长期处于资源劣势  
+- 教育机会的不均等 → 阶层固化与机会差距  
+- 疫情让这种差距更加凸显
+
 ---
+layout: image
+image: https://rta-slides-r2.xlyytcy04.site/learning-adjusted-years-of-school-lays.svg
+backgroundSize: contain
 ---
+
 ---
+layout: image
+image: https://rta-slides-r2.xlyytcy04.site/inequality-in-education.svg
+backgroundSize: contain
 ---
+
 ---
+layout: image
+image: https://rta-slides-r2.xlyytcy04.site/inequality-in-education-bar.svg
+backgroundSize: contain
 ---
+
 ---
+
+## 🌱 远程教学的公平价值
+
+
+<br/>
+
+- 🌐 打破“地理壁垒”  
+- 💰 降低“经济门槛”  
+- 🧠 减少“信息鸿沟”  
+- 🏫 Coursera 让发展中国家学生接触世界一流课程  
+- 🇨🇳 国内平台在中小城市普及教育资源
+
 ---
+
+## ⚠️ 面临的挑战
+
+
+<br/>
+
+- 🕸 数字鸿沟：网络与设备不均  
+- 🌏 语言障碍：非英语国家参与度受限  
+- 🧑‍🏫 学习支持体系薄弱，反馈不足  
+- 📉 MOOC 平均完成率仅 5–15%
+
 ---
+
+## 🤖 AI 的潜力
+
+
+<br/>
+
+- 自动翻译与多语言字幕 → 消除语言门槛  
+- 个性化学习 → 照顾不同基础学生  
+- 智能助教 → 缓解教师资源不足  
+- AI + 远程教学 → 资源薄弱地区也能获得优质教育
+
 ---
+
+# 🧭 教育公平的真正含义
+
+
+<br/>
+
+- 教育公平 ≠ 资源平均分配  
+- ✅ 关键是 “**机会平等**”  
+- 📚 让每个人都有接触优质教育的权利  
+- 🤝 技术 + 政策 + 平台 → 缩小鸿沟
+
 ---
----
----
----
----
----
+
+# 🚀 未来展望
+
+
+<br/>
+
+- 🌐 远程教学 + AI = 教育公平的重要基础设施  
+- 🏫 全球经验（Coursera）与本地实践（MOOC）并行发展  
+- 🧠 AI 赋能个性化学习，提升整体教育质量  
+- 🇨🇳 中国有潜力在“教育普惠化”上实现快速突破
+
 ---
 layout: end
 ---
