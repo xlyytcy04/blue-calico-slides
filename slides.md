@@ -62,7 +62,7 @@ background: https://blue-calico-slides-r2.xlyytcy04.site/cover.jpg
 layout: center
 ---
 
-<Youtube id="ejwQRHtS6cw" class="w-screen max-w-[1000px] aspect-video"/>
+<Youtube id="ejwQRHtS6cw" class="w-screen max-w-[960px] aspect-video"/>
 
 ---
 
@@ -171,6 +171,9 @@ image: https://blue-calico-slides-r2.xlyytcy04.site/White%20Background%20with%20
 - 融合了民间信仰与生活理想
 
 ---
+layout: image-right
+image: https://blue-calico-slides-r2.xlyytcy04.site/Zhang_Jian.jpg
+---
 
 # 👤 张謇与产业化
 
@@ -179,6 +182,9 @@ image: https://blue-calico-slides-r2.xlyytcy04.site/White%20Background%20with%20
 - 1905 年设立“蓝印花布作坊”  
 - 推动印染业现代化，保留产业土壤
 
+---
+layout: image-right
+image: https://blue-calico-slides-r2.xlyytcy04.site/museum.jpg
 ---
 
 # 🏛️ 蓝印花布博物馆
@@ -189,9 +195,8 @@ image: https://blue-calico-slides-r2.xlyytcy04.site/White%20Background%20with%20
 - 国家级非遗传承与推广基地
 
 ---
-
-# 蓝印花布文创产品
-
+layout: image-right
+image: https://fzfz.ntu.edu.cn/_upload/article/images/64/cb/c1c974b64e1b9bdacb91e13b4027/93d06982-d1de-4cce-bd10-27e2523622b9.jpg
 ---
 
 # 🌍 国际传播与影响
