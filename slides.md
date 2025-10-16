@@ -3,7 +3,7 @@ theme: seriph
 title: Blue calico
 class: cover
 transition: slide-left
-background: https://rta-slides-r2.xlyytcy04.site/calico-dress--courtesy-of-Zhirong-Ma-1.jpg
+background: https://blue-calico-slides-r2.xlyytcy04.site/cover.jpg
 ---
 
 # 蓝印花布——南通的非遗瑰宝
