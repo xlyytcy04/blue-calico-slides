@@ -94,10 +94,6 @@ layout: center
 
 ---
 
-# 花版雕刻与印浆
-
----
-
 # 🫧 第三步：染色
 
 - 将印好浆的布浸入染缸  
@@ -125,10 +121,6 @@ layout: center
 
 ---
 
-# 洗浆后的蓝印花布
-
----
-
 # 🧊 冰裂纹的独特美感
 
 - 防染浆干后自然开裂  
@@ -146,6 +138,9 @@ layout: center
 | 白底蓝花 | 需两块花版 | 套印+盖版 |
 
 ---
+layout: image-right
+image: https://blue-calico-slides-r2.xlyytcy04.site/Blue%20Background%20with%20White%20Patterns.jpg
+---
 
 # 🌿 蓝底白花
 
@@ -153,6 +148,9 @@ layout: center
 - 图案多为梅兰竹菊、蝙蝠、莲花  
 - 对比鲜明，传统韵味浓厚
 
+---
+layout: image-right
+image: https://blue-calico-slides-r2.xlyytcy04.site/White%20Background%20with%20Blue%20Patterns.jpeg
 ---
 
 # 🌿 白底蓝花
