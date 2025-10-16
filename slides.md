@@ -51,13 +51,18 @@ background: https://blue-calico-slides-r2.xlyytcy04.site/cover.jpg
 
 ---
 
-
 # 🏞️ 江南文化背景
 
 - 江南水乡适合棉花种植与染料植物生长  
 - 印染业与纺织业天然结合  
 - 蓝印花布成为农家副业与艺术品  
 - 民间图案传递吉祥与信仰
+
+---
+layout: center
+---
+
+<Youtube id="ejwQRHtS6cw" class="w-full aspect-video"/>
 
 ---
 
