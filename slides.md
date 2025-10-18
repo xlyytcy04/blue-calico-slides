@@ -62,7 +62,7 @@ background: https://blue-calico-slides-r2.xlyytcy04.site/cover.jpg
 layout: center
 ---
 
-<Youtube id="ejwQRHtS6cw" class="w-screen max-w-[960px] aspect-video"/>
+<Youtube id="ejwQRHtS6cw" class="w-screen max-w-[850px] aspect-video"/>
 
 ---
 
