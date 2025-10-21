@@ -20,6 +20,8 @@ background: https://blue-calico-slides-r2.xlyytcy04.site/cover.jpg
 - 融合了江南民间智慧与审美意象
 
 ---
+background: https://blue-calico-slides-r2.xlyytcy04.site/bg.jpg
+---
 
 # 📜 起源与历史 · 概览
 
@@ -78,7 +80,7 @@ layout: center
 
 # 🌿 第一步：取蓝染料
 
-- 蓝印花布染料来自 **蓼蓝草**  
+- 蓝印花布染料来自 **蓼(liǎo)蓝草**  
 - 通过发酵提取蓝靛  
 - 天然植物染料 → 环保、色泽持久  
 - 颜色越染越深，呈现靛蓝光泽
@@ -181,6 +183,11 @@ image: https://blue-calico-slides-r2.xlyytcy04.site/Zhang_Jian.jpg
 - 创办大生纱厂  
 - 1905 年设立“蓝印花布作坊”  
 - 推动印染业现代化，保留产业土壤
+
+---
+layout: iframe
+url: https://zh.wikipedia.org/wiki/%E5%BC%A0%E8%AC%87
+---
 
 ---
 layout: image-right
