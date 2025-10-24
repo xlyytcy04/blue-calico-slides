@@ -77,6 +77,9 @@ layout: center
 - 冰裂纹自然成形
 
 ---
+layout: image-right
+image: https://blue-calico-slides-r2.xlyytcy04.site/liaolan.jpg
+---
 
 # 🌿 第一步：取蓝染料
 
