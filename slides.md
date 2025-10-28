@@ -143,7 +143,7 @@ image: https://blue-calico-slides-r2.xlyytcy04.site/yanghua.png
 
 ---
 layout: image-right
-image: https://blue-calico-slides-r2.xlyytcy04.site/xianhua.jpg
+image: https://blue-calico-slides-r2.xlyytcy04.site/xianhua.png
 ---
 
 # 💧 第五步：洗浆显花
