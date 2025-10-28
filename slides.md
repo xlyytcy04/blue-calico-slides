@@ -78,7 +78,9 @@ layout: section
 layout: center
 ---
 
-<Youtube id="ejwQRHtS6cw" class="w-screen max-w-[850px] aspect-video"/>
+<SlidevVideo controls>
+  <source src="https://blue-calico-slides-r2.xlyytcy04.site/blue_calico.mp4" type="video/mp4" />
+</SlidevVideo>
 
 ---
 
