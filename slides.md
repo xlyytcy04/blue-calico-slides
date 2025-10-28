@@ -106,6 +106,9 @@ image: https://blue-calico-slides-r2.xlyytcy04.site/liaolan.jpg
 - 天然植物染料环保、色泽持久，可反复复原为深靛蓝
 
 ---
+layout: image-right
+image: https://blue-calico-slides-r2.xlyytcy04.site/yingjiang.png
+---
 
 # 🪵 第二步：雕版印浆
 
@@ -114,6 +117,9 @@ image: https://blue-calico-slides-r2.xlyytcy04.site/liaolan.jpg
 - 花版覆盖在白布上，用刮板均匀刮涂由豆粉、石灰、石膏调成的防染浆剂
 - 印浆后自然晾干，形成挺阔纹理，为后续染色打下基础
 
+---
+layout: image-right
+image: https://blue-calico-slides-r2.xlyytcy04.site/ranse.png
 ---
 
 # 🫧 第三步：染色
@@ -124,6 +130,9 @@ image: https://blue-calico-slides-r2.xlyytcy04.site/liaolan.jpg
 - 染匠需要随时打理染缸活性，维持靛液的还原性
 
 ---
+layout: image-right
+image: https://blue-calico-slides-r2.xlyytcy04.site/yanghua.png
+---
 
 # 🍃 第四步：氧化
 
@@ -132,6 +141,9 @@ image: https://blue-calico-slides-r2.xlyytcy04.site/liaolan.jpg
 - 工匠通过手感与色差判断最佳氧化时间
 - 合理的翻动、抖甩能避免色层沉积造成色花
 
+---
+layout: image-right
+image: https://blue-calico-slides-r2.xlyytcy04.site/xianhua.jpg
 ---
 
 # 💧 第五步：洗浆显花
