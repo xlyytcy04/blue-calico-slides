@@ -21,7 +21,11 @@ background: https://blue-calico-slides-r2.xlyytcy04.site/cover.jpg
 - 融合江南民间智慧与审美意象，在衣被、礼俗与文创中延续生命力
 
 ---
-background: https://blue-calico-slides-r2.xlyytcy04.site/bg.jpg
+layout: section
+---
+
+# 起源与历史
+
 ---
 
 # 📜 起源与历史 · 概览
@@ -63,6 +67,12 @@ background: https://blue-calico-slides-r2.xlyytcy04.site/bg.jpg
 - 印染业与家庭纺织天然结合，一家有机具即可开坊
 - 民间图案承载吉祥与信仰，寄托对丰年、婚嫁、寿礼的祝福
 - 寺庙会市与海港贸易促进蓝印花布向周边地区扩散
+
+---
+layout: section
+---
+
+# 工艺流程
 
 ---
 layout: center
@@ -130,6 +140,12 @@ image: https://blue-calico-slides-r2.xlyytcy04.site/liaolan.jpg
 - 手工印浆的“冰裂纹”也在此阶段逐渐浮现
 
 ---
+layout: section
+---
+
+# 特点
+
+---
 
 # 🧊 冰裂纹的独特美感
 
@@ -191,6 +207,12 @@ image: https://blue-calico-slides-r2.xlyytcy04.site/White%20Background%20with%20
 - “耕读传家”场景描绘男耕女织，传递勤俭持家的价值观
 
 ---
+layout: section
+---
+
+# 传承
+
+---
 layout: image-right
 image: https://blue-calico-slides-r2.xlyytcy04.site/Zhang_Jian.jpg
 ---
@@ -240,35 +262,6 @@ image: https://fzfz.ntu.edu.cn/_upload/article/images/64/cb/c1c974b64e1b9bdacb91
 - “蝶恋花”“耕读图”等系列成为讲述东方故事的视觉符号
 - 传统工艺与当代设计结合，成为跨文化交流的媒介
 - 海外华人社群通过讲座、工作坊推广蓝印花布美学
-
----
-
-# 👐 体验与教育推广
-
-- 中小学将蓝印花布纳入劳动课程，开展沉浸式研学
-- 文创品牌推出 DIY 套装，让家庭在家也能操作小型染缸
-- 设计师驻坊计划引入跨领域创意，拓展纹样叙事
-- 社区工作坊结合节令主题，激发公众对传统工艺的亲近感
-
----
-
-# 🏠 现代生活中的应用
-
-- 服饰：与亚麻、真丝拼接，打造具有东方气质的成衣
-- 家居：抱枕、桌布、灯罩将传统纹样带入日常空间
-- 文创：明信片、手账本、手机壳等小件让非遗触手可及
-- 旅游：景区围巾、背包等纪念品增强地方记忆
-- 可持续：天然染料与可降解棉布符合绿色消费潮流
-
----
-
-# 🛡️ 保护与传承策略
-
-- 建立“生产性保护”模式，让作坊在市场中自我造血
-- 数字化花版档案，防止珍贵纹样遗失
-- 政府与高校合作研发新材料、新工艺，拓宽应用场景
-- 举办蓝印花布节、非遗主题展，增强社会公众参与度
-- 引导年轻设计师与工匠共创，形成良性生态
 
 ---
 
